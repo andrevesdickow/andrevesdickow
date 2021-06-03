@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrevesdickow
-- 👀 See moore in [http://dickow.me](my website)
+- 👀 See moore in [my personal website](http://dickow.me)
 
 <!---
 andrevesdickow/andrevesdickow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
